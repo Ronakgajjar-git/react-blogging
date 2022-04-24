@@ -1,0 +1,21 @@
+User
+--------------------------
+first name
+last name
+username
+password
+avatar_url
+intro
+email
+date of join
+
+
+
+blogPosts
+--------------------------
+blogid
+blog-post-title
+blog-post-url
+blog-post-content
+date-created
+date-updated 
